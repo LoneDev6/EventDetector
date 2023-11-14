@@ -1,0 +1,3 @@
+print_detailed: false
+events_to_catch:
+  - InventoryClickEvent
